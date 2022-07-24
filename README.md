@@ -23,8 +23,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" alt="robotframework" width="80" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Vector_Informatik_Logo.svg" alt="Vector" width="150" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="80" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Raspberry_Pi_OS_Logo.png" alt="robotframework" width="100" height="50"/>
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Raspberry_Pi_OS_Logo.png" alt="Raspberry Pi" width="100" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="100" height="50"/>
 </p>
 
 
