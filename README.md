@@ -5,7 +5,7 @@
 
 # 💫 About Me :
 - 🔭 I’m currently working on IoT Systems
-- 🌱 I’m currently learning Something curios
+- 🌱 I’m currently learning something curios
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with Azure Cloud
 - 💬 Ask me about Automotive and Python
