@@ -1,6 +1,6 @@
 ### Hallo! I am Mani Shankar 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-cell&label=Views&color=blue&style=plastic&style=for-the-badge" alt="manishankar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishankarconnect&label=Views&color=blue&style=plastic&style=for-the-badge" alt="manishankar" /> </p>
 
 
 # 💫 About Me :
@@ -34,4 +34,4 @@
 
 
 # GitHub Stats
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=coder-cell&show_icons=true&theme=vue" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=manishankarconnect&show_icons=true&theme=vue" />
