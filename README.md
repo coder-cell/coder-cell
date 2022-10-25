@@ -5,9 +5,8 @@
 
 # 💫 About Me :
 - 🔭 I’m currently working on IoT Systems
-- 🌱 I’m currently learning something curios
+- 🌱 I’m currently learning on Product development
 - 👯 I’m looking to collaborate on GitHub
-- 🤔 I’m looking for help with Azure Cloud
 - 💬 Ask me about Automotive and Python
 - 📫 How to reach me: mani.shankar.offl@gmail.com
 - 😄 Pronouns: He/His
