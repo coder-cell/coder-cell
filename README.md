@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning on Product development
 - 👯 I’m looking to collaborate on GitHub
 - 💬 Ask me about Automotive and Python
-- 📫 How to reach me: mani.shankar.offl@gmail.com
+- 📫 How to reach me: manishankarconnect+github@gmail.com
 - ⚡ Fun fact: I can solve Rubik's Cube in 90 seconds.
 
 ## 💻 Tech Stack
